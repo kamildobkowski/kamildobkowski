@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Kamil from Warsaw, Poland<br><br>- 🔭 I’m studying Applied Informatics at Warsaw University of Technology <br>- 📚 I'm currently learning ASP.NET MVC</p>
+<p align="left">I'm Kamil from Warsaw, Poland<br><br> 🔭 I’m studying Applied Informatics at Warsaw University of Technology <br>
 
 ###
 

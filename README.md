@@ -28,10 +28,6 @@
 
 ###
 
-<p align="left">-MongoDb<br>-ASP.NET MinimalApi</p>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###

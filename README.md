@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">-C#<br>-.NET Core<br>-ASP.NET Web API<br>-Entity Framework Core<br>-MS SQL, MySQL<br>-basic Docker knowledge<br>-basic Java(Maven and Lombok), C and Python knowledge<br>-basic HTML, CSS and JS knowledge</p>
+<p align="left">-C#<br>-.NET Core<br>-ASP.NET Web API<br>-Entity Framework Core, Dapper<br>-MS SQL, MySQL<br>-basic Docker knowledge<br>-basic Java(Maven and Lombok), C and Python knowledge<br>-basic HTML, CSS and JS knowledge</p>
 
 ###
 
